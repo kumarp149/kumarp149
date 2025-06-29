@@ -1,16 +1,26 @@
-## Hi there 👋
+# Myself
 
-<!--
-**kumarp149/kumarp149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer with a strong foundation in problem solving and the ability to quickly adapt. Proficient in Java and C++, I am passionate about crafting efficient solutions and exploring diverse software architectures. As an active contributor to open source communities, I thrive on collaboration and continuous learning.
 
-Here are some ideas to get you started:
+### Tech I Work With
+- **Languages**: Java, C++, C, Node.js
+- **Software**: Git, GNU Make
+- **Others**: Data Structures, Algorithms, Databases, Linux, System Design, Amazon Web Services 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Open Source Contributions
+
+I actively contribute to **real-world, production-grade open source projects**. A few highlights:
+
+### 🌟 Eclipse JGit
+- Fixed critical issues in the JGit backend library used by Eclipse.
+- Contributed to **category-L (large)** bugs — demonstrating deep understanding of Git internals and Java.
+- Link to my contributions: [My JGit Contributions »](https://eclipse.gerrithub.io/q/owner:psurya1967@iitkgp.ac.in)
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: psruteeshkumar@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sruteesh](https://linkedin.com/in/sruteesh)
+
