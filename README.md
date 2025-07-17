@@ -21,8 +21,9 @@ I actively contribute to **real-world, production-grade open source projects**. 
 ## What am I building?
 
 ### Re-wise (In-Progress)
-- A Git-inspired command-line tool written in C to track and version .jar files.
-- Enables quick rollback of buggy production JAR files with a single command.
+- A Git-inspired command-line tool written in C to track and version JAR files.
+- Enables quick rollback of buggy production JAR files with a single command—without the need to manually save older versions.
+- Currently supports committing changes, tagging commits, comparing revisions, and restoring specific paths from a given commit.
 - Leverages GNU Make for build automation, GCC for compilation, and libzip for archive manipulation.
 
 ## 📫 Let's Connect
